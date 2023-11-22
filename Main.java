@@ -37,8 +37,6 @@ class Main {
       System.out.println("Employee Name "+ name);
       System.out.println("Basic Pay " + basicPay);
       System.out.println("Overtime Pay " + otPay);
-
-      
       
       System.out.println("------------------");
       System.out.print("Gross Pay "+ (basicPay + otPay));
